@@ -1,5 +1,5 @@
 # Google Home Page
 
-## [demo link]()
+## [demo link](https://itfactoryorg.github.io/google-homepage/)
 
-![preview](./assets/images/logo.png)
+![preview](./assets/images/preview.png)
